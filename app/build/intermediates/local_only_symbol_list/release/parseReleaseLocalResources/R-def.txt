@@ -1,0 +1,15 @@
+R_DEF: Internal format may change without notice
+local
+id autoCheck
+id permissionButton
+id previewButton
+id refreshButton
+id saveButton
+id statusText
+id syncButton
+id timeButton
+id tokenEdit
+id urlEdit
+layout activity_main
+string app_name
+style Theme.SHealthProbe
